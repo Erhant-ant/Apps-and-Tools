@@ -1,0 +1,1 @@
+# Apps & Tools ???`n`nA collection of useful applications, scripts, and utilities I've built.`n`n## Projects Included`n`n- **Sýnav Koçum Pro**: Exam tracking application.`n- **IT Support Ticket Tracker**: IT support ticketing system.`n- **Tip Calculator**: Handy utility.`n- **Öðrenci Programlarý**: Tools for students.`n
